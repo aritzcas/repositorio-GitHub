@@ -1,4 +1,4 @@
-# repositorio-GitHub
+# Ejemplo GitHub
 Primer repo
 
 Primer Commit
